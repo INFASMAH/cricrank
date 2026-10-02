@@ -1,0 +1,25 @@
+{
+  "name": "CricRank — Cricket Platform",
+  "short_name": "CricRank",
+  "description": "CricRank cricket platform for live scores, matches, teams, players, rankings, videos, gallery, fan voting and more.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1b4a",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
